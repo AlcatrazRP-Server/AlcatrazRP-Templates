@@ -1,11 +1,11 @@
 # Alcatraz Templates
 
-## Browse through the folders to find the template you are looking for
+### Browse through the folders to find the template you are looking for
 
 - Mechanic shops  
 - Car Dealerships  
 
-Need to add:  
+### Need to add:  
 - Police stations  
 - Hospitals  
 - Public/Private Garages  
