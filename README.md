@@ -2,16 +2,17 @@
 
 ### Browse through the folders to find the template you are looking for
 
-- Mechanic shops  
-- Car Dealerships  
+- Mechanic shops              (mechanic)
+- Car Dealerships             (car-dealer)
+- Cars                        (car-dealer/cars)
+- Garages                     (garages)
+- Police stations             (police)
+- Hospitals                   (ambulance)
+- AI Guards                   (guards)
+- Boss Menu                   (boss-menu)
+- Placeable/Throwable Items   (place-throw-items)
 
-### Need to add:  
-- Police stations  
-- Hospitals  
-- Public/Private Garages  
+### Need to add:    
 - Dispatch radio codes  
-- AI Guards  
-- Crafting  
-- Boss Menu  
-- Placeable/Throwable Items  
+- Crafting    
 - Outfits (work)
