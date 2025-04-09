@@ -1,31 +1,31 @@
 # CUSTOM CARS
 ## Here are the categories  
-compacts
-sedans
-suvs
-coupes
-muscle
-sportsclassics
-sports
-super
-offroad
-industrial
-utility
-vans
-emergency
-military
-commercial
-motorcycles   -- IMPORTANT!!! MOTORCYCLES REQUIRE type = 'bike' NOT type = 'automobile'
-
-## Dealership names
-Heavy D Motorsports
-Paleto Motorcycles
-Premium Deluxe Motorsports
-Turbo Wheels
-Sandy Shores Trailers
-truck
-
-## Change the name, price, category and shop (and type if catagory = 'motorcycle', change type = 'bike')
+compacts  
+sedans  
+suvs  
+coupes  
+muscle  
+sportsclassics  
+sports  
+super  
+offroad  
+industrial  
+utility  
+vans  
+emergency  
+military  
+commercial  
+motorcycles   -- IMPORTANT!!! MOTORCYCLES REQUIRE type = 'bike' NOT type = 'automobile'  
+  
+## Dealership names  
+Heavy D Motorsports  
+Paleto Motorcycles  
+Premium Deluxe Motorsports  
+Turbo Wheels  
+Sandy Shores Trailers  
+truck  
+  
+### Change the name, price, category and shop (and type if catagory = 'motorcycle', change type = 'bike')
 <pre>
 --------------------------------------
 --------------------------------------
