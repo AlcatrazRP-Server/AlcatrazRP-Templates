@@ -48,7 +48,7 @@ Pillbox = {
 
     CheckIn = {
         Enabled = true,
-        Ped = 's_m_m_scientist_01',                  -- NEEDED: CHANGE ME! Check in ped
+        Ped = 's_m_m_scientist_01',                  -- OPTIONAL: Check in ped
         Coords = vec3(308.58, -595.31, 43.28 - 0.9), -- NEEDED: CHANGE ME! Coords of ped
         Distance = 4.85,
         Heading = 63.26,                             -- NEEDED: CHANGE ME! Heading of ped
