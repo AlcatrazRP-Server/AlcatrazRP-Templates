@@ -1,7 +1,7 @@
 # Alcatraz Templates  
 Welcome! Thank you for helping improve the server. It means a lot to me, and we all benefit! If you think of any improvements for this guide please feel free to post them in the discord or DM me directly. - Lester Morgan  
 
-### Browse through the folders to find the template you are looking for
+### Browse through the links to find the template you are looking for
 - [Mechanic shops](./mechanic/README.md#mechanic-shop-template)
 - [Car Dealerships](./car-dealer/README.md#car-dealership-template)
 - [Cars](./car-dealer/cars/README.md#custom-cars)
