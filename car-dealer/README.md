@@ -26,6 +26,7 @@ Select from the categories to determine which vehicles the dealership can sell
 "industrial"
 </pre>
 
+Copy the template below, and replace appropriate fields  
 <pre>
 ["pdm"] = {
   type = "owned",
