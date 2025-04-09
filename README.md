@@ -41,6 +41,7 @@ COPY and PASTE the entire BLOCK of code into any text editor of your choosing su
 - notepad  
 - [Google Docs](https://docs.google.com)  
 - etc.  
+  
 Look through and read all lines that say NEEDED or OPTIONAL, and change as necessary  
 When you paste your coordinates, you may notice it says vector3(...) instead of vec3(...) - That is okay, they are the exact same thing to the computer  
 Same thing goes for vector4(...) and vec4(...)  
