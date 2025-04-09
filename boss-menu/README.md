@@ -1,5 +1,5 @@
 # Boss menu
-[Back to Main Page](../README.md)  
+- [Back to Main Page](../README.md#alcatraz-templates)  
   
 Super simple. Need to change the whole line, but it's straightforward  
 - ballas: name of the "job/gang"

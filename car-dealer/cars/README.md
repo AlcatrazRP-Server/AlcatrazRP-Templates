@@ -1,6 +1,6 @@
 # CUSTOM CARS
-[Back to Main Page](../../README.md)
-[Back to Car Dealer](../README.md)
+[Back to Main Page](../../README.md#alcatraz-templates)
+[Back to Car Dealer](../README.md#car-dealership-template)
 ## Here are the categories  
 compacts  
 sedans  

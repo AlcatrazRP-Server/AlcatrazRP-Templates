@@ -1,5 +1,5 @@
 # Garages
-[Back to Main Page](../README.md)  
+- [Back to Main Page](../README.md#alcatraz-templates)  
   
 Below you will find different categories for each type of garage:  
 - [Public](#public-garages)

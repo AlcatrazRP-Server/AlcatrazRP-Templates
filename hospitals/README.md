@@ -1,4 +1,5 @@
 # Hospital Setup
+- [Back to Main Page](../README.md#alcatraz-templates)  
 There are two templates here.
 - [Official Hospital](#official-hospital-template)
 - [Granny Hospital](#granny-hospital-template)

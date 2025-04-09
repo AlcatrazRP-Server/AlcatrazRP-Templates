@@ -1,4 +1,5 @@
 # Car Dealership template
+- [Back to Main Page](../README.md#alcatraz-templates)  
 - [Car Categories](#categories)
 - [Dealership Template](#dealership-template)
 
