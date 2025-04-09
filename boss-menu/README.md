@@ -9,6 +9,7 @@ Super simple. Need to change the whole line, but it's straightforward
 ### Multiple locations for one job
 Multiple boss menus can be placed for one job. I.e.  
 - police in Paleto and MRPD can access the same global funds if part of the same department/job    
+
 Same thing with the dutyCoords, or the clock-in location.  
 Police and Ambulance have built in dutyCoords (clock in/out), but still need bossCoords (boss menu) to access menu.  
 Copy and paste the one line below, and change as needed
