@@ -2,6 +2,7 @@
 - [Back to Main Page](../README.md#alcatraz-templates)  
 - [Car Categories](#categories)
 - [Dealership Template](#dealership-template)
+- [Giant List of Cars](./cars/README.md#custom-cars)
 
 ## Data needed:
 Go through and look for the lines that say: -- NEEDED: CHANGE ME!!  
