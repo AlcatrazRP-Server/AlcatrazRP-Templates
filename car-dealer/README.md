@@ -1,10 +1,13 @@
 # Car Dealership template
+- [Car Categories](#categories)
+- [Dealership Template](#dealership-template)
 
 ## Data needed:
 Go through and look for the lines that say: -- NEEDED: CHANGE ME!!  
 Just get the vector3 coordinates, and paste them in to the appropriate spots.  
 Highlight the whole vector3 or vector4, and replace with your own coordinates. Must match original type (vector3 or vector4)  
 
+### Categories
 Select from the categories to determine which vehicles the dealership can sell
 <pre>
 "planes"  
@@ -22,12 +25,12 @@ Select from the categories to determine which vehicles the dealership can sell
 "sports"  
 "suvs"  
 "commercial"  
-"cycles"      -- literal bicycles
-"industrial"
+"industrial"  
 </pre>
 
+### Dealership Template
 Copy the template below, and replace appropriate fields  
-<pre>
+```lua
 ["pdm"] = {
   type = "owned",
   openShowroom = {
@@ -70,4 +73,4 @@ Copy the template below, and replace appropriate fields
   job = "cardealer", -- Owned dealerships only
   directSaleDistance = 50,
 },
-</pre>
+```

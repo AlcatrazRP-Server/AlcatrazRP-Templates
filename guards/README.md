@@ -3,7 +3,7 @@ These are criminal guards, so they will only protect specific gangs.
 This example uses the lostmc as the gang. Needs testing, but I believe the guards will attack people not part of the gang when they are in the zone.  
 
 # Tweak the stationary and footPatrol guards as needed.  
-<pre>
+```lua
 ['lostmc'] = {                -- NEEDED: CHANGE ME! Change to gangs code. If unknown, just the name of the gang is fine
     name = "lostmc",          -- NEEDED: CHANGE ME! Same as above
     zone = {
@@ -75,8 +75,9 @@ This example uses the lostmc as the gang. Needs testing, but I believe the guard
             },
             -- add more guards if needed
         },
+        -- completely ignore carPatrol. Too bugged out
         carPatrol = {
         }
     }
 }
-</pre>
+```

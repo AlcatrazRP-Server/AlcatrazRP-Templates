@@ -6,7 +6,7 @@ Just get the vector3 coordinates, and paste them in to the appropriate spots
 
 That's all you need as a mechanic. Your tablet is your boss menu
 
-<pre>
+```lua
 lscustoms = {
   type = "owned",
   job = "mechanic",
@@ -100,4 +100,4 @@ lscustoms = {
     },
   }
 }
-</pre>
+```

@@ -3,7 +3,7 @@ Below you will find different categories for each type of garage: Public, Employ
 
 ### Public Garages
 Public garages for everybody to use.
-<pre>
+```lua
 ["Legion Square"] = {                             -- NEEDED: CHANGE ME! Name that will show up on the map
   coords = vector3(215.09, -805.17, 30.81),       -- NEEDED: CHANGE ME! This is where users will activate the garage menu
   spawn = {
@@ -21,11 +21,11 @@ Public garages for everybody to use.
   hideMarkers = true,
   markers = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
 },
-</pre>
+```
 
 ### Employee Only
 These are player owned vehicles  
-<pre>
+```lua
 ["Mechanic"] = {                                      -- NEEDED: CHANGE ME! Just name business i.e. Burgershot, LSCustoms, etc.
   coords = vector3(157.86, -3005.9, 7.03),
   spawn = vector4(165.26, -3014.94, 5.9, 268.8),
@@ -42,13 +42,13 @@ These are player owned vehicles
   markers = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
   vehiclesType = "owned", -- Use owned vehicles that can anyone in this society can access - more details: https://docs.jgscripts.com/advanced-garages/job-and-gang-garages
 },
-</pre>
+```
 
 ### Business Spawner
 This type of garage spawn vehicles. Mainly for emergency services such as police and EMS  
 Police and EMS have built in garages, so this would only be necessary for towing or other jobs such as taxi, bus driver etc.  
 Might use this for emergency services since the minJobGrade feature is nice and uses less code  
-<pre>
+```lua
 ["Towing"] = {                                        -- NEEDED: CHANGE ME! Just name the service i.e. Police, EMS, Towing, etc.
   coords = vector3(434.48, -1016.97, 28.83),          -- NEEDED: CHANGE ME! This is where users will activate the garage menu
   spawn = vector4(434.55, -1014.54, 28.49, 91.56),    -- NEEDED: CHANGE ME! This is where vehicles will spawn
@@ -86,4 +86,4 @@ Might use this for emergency services since the minJobGrade feature is nice and 
     }
   }
 }
-</pre>
+```

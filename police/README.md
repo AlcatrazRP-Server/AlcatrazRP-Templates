@@ -1,11 +1,13 @@
 # Police & Evidence
 Police and Evidence are set up separately  
 They both use the same job at the moment. There is always room for an evidence department  
+- [Police Station Setup](#police-station-setup)  
+- [Evidence Setup](#evidence-setup)
 
-## Police Station Setup
+### Police Station Setup
 Here is the configuration on how to set up an entire police department.  
 Just past this will be the Evidence configuration.  
-<pre>
+```lua
 LSPD = {
     blip = {
         enabled = true,
@@ -294,11 +296,11 @@ LSPD = {
     }
     
 },
-</pre>
+```
 
-## Evidence Setup
+### Evidence Setup
 Here is the configuration on how to set up an the evidence section of any police department  
-<pre>
+```lua
 LSPD = {
     label = 'LSPD',                                         -- NEEDED: CHANGE ME! Display label
 
@@ -336,4 +338,4 @@ LSPD = {
     -- Can be string (ex. 'police' or table ex. {'police', 'sheriff'})                                                 --
     ---------------------------------------------------------------------------------------------------------------------
 },
-</pre>
+```

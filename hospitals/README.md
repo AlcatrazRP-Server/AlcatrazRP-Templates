@@ -6,7 +6,8 @@ There are two templates here.
 ### Official Hospital Template
 Mostly have to change vector3 coordinates. Will create a fully functioning hospital ready for staff and patients  
 Only NEED one setup in Paleto at the moment
-<pre>
+
+```lua
 Pillbox = {
     RespawnPoint = {
         coords = vec3(317.8, -585.14, 44.2),        -- NEEDED: CHANGE ME! Can be same as Blip Coords below. When player dies, this point is used to see which hospital is closest
@@ -248,12 +249,12 @@ Pillbox = {
         vector3(461.54, -986.17, 30.66)     -- NEEDED: CHANGE ME! Replace me with boss menu coords
     },
 },
-</pre>
+```
 
 ### Granny Hospital Template
 This is the criminal/private hospital template.  
 These hospitals will not display on the map.  
-<pre>
+```lua
 GrannySmith = {
     Ped = 's_m_m_scientist_01',                   -- OPTIONAL: Check in ped
     Coords = vec3(1729.03, 2563.33, 45.56 - 0.9), -- NEEDED: CHANGE ME! Coords of ped
@@ -273,4 +274,4 @@ GrannySmith = {
         { coords = vec3(317.67, -585.37, 42.84 + 0.3), heading = 160.0 },      OPTIONAL: Only needed if DisableHospitalBeds = false
     }
 },
-</pre>
+```
