@@ -256,6 +256,7 @@ Pillbox = {
 ### Granny Hospital Template
 - [Back to Top](#hospital-setup)
 - [Back to Main Page](../README.md#alcatraz-templates)  
+
 This is the criminal/private hospital template.  
 These hospitals will not display on the map.  
 ```lua
