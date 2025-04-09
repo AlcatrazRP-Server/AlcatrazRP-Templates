@@ -11,7 +11,7 @@ Welcome! Thank you for helping improve the server. It means a lot to me, and we 
 - [AI Guards](./guards/README.md#ai-guards)
 - [Boss Menu](./boss-menu/README.md#boss-menu)
 - [Placeable/Throwable Items](./place-throw-items/README.md#placeable-and-throwable-items)  
-  
+
 ## Instructions
 Each file will have its own simple instructions, but they all will follow a similar template.  
 Below will be an example of a BLOCK of code. This example comes directly from [this template](./hospitals/README.md#granny-hospital-template) in [hospitals](./hospitals/README.md)  
@@ -41,7 +41,7 @@ COPY and PASTE the entire BLOCK of code into any text editor of your choosing su
 - notepad  
 - [Google Docs](https://docs.google.com)  
 - etc.  
-  
+
 Look through and read all lines that say NEEDED or OPTIONAL, and change as necessary  
 When you paste your coordinates, you may notice it says vector3(...) instead of vec3(...) - That is okay, they are the exact same thing to the computer  
 Same thing goes for vector4(...) and vec4(...)  
@@ -71,7 +71,7 @@ GrannySmith = {
 ``` 
 ### Complete  
 Once the entire BLOCK is updated, paste the complete version into the corresponding discord channel, and I will add to the server. Simple as that!  
-  
+
 # Future Updates
 ### Templates to add:    
 - Dispatch radio codes  
