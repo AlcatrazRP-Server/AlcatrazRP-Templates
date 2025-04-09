@@ -1,6 +1,11 @@
 # Garages
-Below you will find different categories for each type of garage: Public, Employee Only, and Business Spawner (Police)
-
+[Back to Main Page](../README.md)  
+  
+Below you will find different categories for each type of garage:  
+- [Public](#public-garages)
+- [Employee Only](#employee-only)
+- [Business Spawner](#business-spawner)  
+  
 ### Public Garages
 Public garages for everybody to use.
 ```lua
@@ -87,3 +92,4 @@ Might use this for emergency services since the minJobGrade feature is nice and 
   }
 }
 ```
+[Back to Top](#garages)

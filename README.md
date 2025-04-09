@@ -2,19 +2,20 @@
 Welcome! Thank you for helping improve the server. It means a lot to me, and we all benefit! If you think of any improvements for this guide please feel free to post them in the discord or DM me directly. - Lester Morgan  
 
 ### Browse through the folders to find the template you are looking for
-- [Mechanic shops](./mechanic/README.md)
-- [Car Dealerships](./car-dealer/README.md)
-- [Cars](./car-dealer/cars/README.md)
-- [Garages](./garages/README.md)
-- [Police Stations](./police/README.md)
-- [Hospitals](./hospitals/README.md)
-- [AI Guards](./guards/README.md)
-- [Boss Menu](./boss-menu/README.md)
-- [Placeable/Throwable Items](./place-throw-items/README.md)  
+- [Mechanic shops](./mechanic/README.md#mechanic-shop-template)
+- [Car Dealerships](./car-dealer/README.md#car-dealership-template)
+- [Cars](./car-dealer/cars/README.md#custom-cars)
+- [Garages](./garages/README.md#garages)
+- [Police Stations](./police/README.md#police--evidence)
+- [Hospitals](./hospitals/README.md#hospital-setup)
+- [AI Guards](./guards/README.md#ai-guards)
+- [Boss Menu](./boss-menu/README.md#boss-menu)
+- [Placeable/Throwable Items](./place-throw-items/README.md#placeable-and-throwable-items)  
   
 ## Instructions
 Each file will have its own simple instructions, but they all will follow a similar template.  
 Below will be an example of a BLOCK of code. This example comes directly from [this template](./hospitals/README.md#granny-hospital-template) in [hospitals](./hospitals/README.md)  
+Tip: You can just click the button in the upper right of the code block to copy. Super easy!
 ```lua
 GrannySmith = {
     Ped = 's_m_m_scientist_01',                   -- OPTIONAL: Check in ped

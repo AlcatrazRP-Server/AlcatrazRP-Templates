@@ -1,5 +1,7 @@
 # Boss menu
-### Super simple. Need to change the whole line, but it's straightforward  
+[Back to Main Page](../README.md)  
+  
+Super simple. Need to change the whole line, but it's straightforward  
 - ballas: name of the "job/gang"
 - bossCoords = {vector3(...), vector3(...)}
 - dutyCoords = {vector3(...), vector3(...)}

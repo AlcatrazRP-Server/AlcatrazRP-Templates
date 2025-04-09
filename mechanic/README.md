@@ -1,5 +1,5 @@
-# Mechanic Shop template
-
+# Mechanic Shop Template
+Pretty straightforward setup
 ## Data needed:
 Go through and look for the lines that say: -- NEEDED: CHANGE ME!!  
 Just get the vector3 coordinates, and paste them in to the appropriate spots  
@@ -101,3 +101,4 @@ lscustoms = {
   }
 }
 ```
+[Back to Top](#mechanic-shop-template)

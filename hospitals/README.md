@@ -252,6 +252,7 @@ Pillbox = {
 ```
 
 ### Granny Hospital Template
+- [Back to Top](#hospital-setup)
 This is the criminal/private hospital template.  
 These hospitals will not display on the map.  
 ```lua
