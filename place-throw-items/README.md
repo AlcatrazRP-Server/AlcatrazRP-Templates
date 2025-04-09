@@ -3,7 +3,7 @@
 
 These are actually quite easy. You just have to prop hunt for the right props.  
 I am not super familiar with props and their shorthand meanings, but here is a useful website for finding GTA props:  
-- [Forge Plebmasters](https://forge.plebmasters.de/objects)  
+- <a href="https://forge.plebmasters.de/objects" target="_blank" rel="noopener noreferrer">Forge Plebmasters</a>    
 
 This example uses a brick of cocaine. The name stored in code is coke_brick. Just put in whatever name you see in your inventory, spaces included i.e. Coke Brick  
 Change to false for the first two fields if you do not want it thrown or dropped, respectively.  

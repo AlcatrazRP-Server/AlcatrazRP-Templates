@@ -33,13 +33,13 @@ GrannySmith = {
     DisableHospitalBeds = true,           -- Disable hospital beds for check-in at this location?(Player will spend Duration checking in before respawning in RespawnNoBedLocation coords when set to true)
     RespawnNoBedLocation = { coords = vec3(1729.03, 2563.33, 45.56), heading = 339.02 }, -- NEEDED: CHANGE ME! Coords and heading of where to spawn player if DisableHospitalBeds is set to true or beds full
     HospitalBeds = {
-        { coords = vec3(317.67, -585.37, 42.84 + 0.3), heading = 160.0 },      OPTIONAL: Only needed if DisableHospitalBeds = false
+        { coords = vec3(317.67, -585.37, 42.84 + 0.3), heading = 160.0 },      -- OPTIONAL: Only needed if DisableHospitalBeds = false
     }
 },
 ```
 COPY and PASTE the entire BLOCK of code into any text editor of your choosing such as:  
 - notepad  
-- [Google Docs](https://docs.google.com)  
+- <a href="https://docs.google.com" target="_blank" rel="noopener noreferrer">Google Docs</a>  
 - etc.  
 
 Look through and read all lines that say NEEDED or OPTIONAL, and change as necessary  
