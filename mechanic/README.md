@@ -1,12 +1,13 @@
 # Mechanic Shop Template
 - [Back to Main Page](../README.md#alcatraz-templates)  
-Pretty straightforward setup  
+  
 ## Data needed:
+Pretty straightforward setup  
 Go through and look for the lines that say: -- NEEDED: CHANGE ME!!  
 Just get the vector3 coordinates, and paste them in to the appropriate spots  
-
-That's all you need as a mechanic. Your tablet is your boss menu
-
+  
+That's all you need as a mechanic. Your tablet is your boss menu  
+  
 ```lua
 lscustoms = {
   type = "owned",

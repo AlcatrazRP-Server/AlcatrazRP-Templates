@@ -1,13 +1,14 @@
 # Hospital Setup
 - [Back to Main Page](../README.md#alcatraz-templates)  
-There are two templates here.
+  
+There are two templates here.  
 - [Official Hospital](#official-hospital-template)
 - [Granny Hospital](#granny-hospital-template)
-
+  
 ### Official Hospital Template
 Mostly have to change vector3 coordinates. Will create a fully functioning hospital ready for staff and patients  
 Only NEED one setup in Paleto at the moment
-
+  
 ```lua
 Pillbox = {
     RespawnPoint = {

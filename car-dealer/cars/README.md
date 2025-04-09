@@ -1,31 +1,33 @@
 # CUSTOM CARS
 [Back to Main Page](../../README.md#alcatraz-templates)  
 [Back to Car Dealer](../README.md#car-dealership-template)  
+  
 ## Here are the categories  
-compacts  
-sedans  
-suvs  
-coupes  
-muscle  
-sportsclassics  
-sports  
-super  
-offroad  
-industrial  
-utility  
-vans  
-emergency  
-military  
-commercial  
-motorcycles   -- IMPORTANT!!! MOTORCYCLES REQUIRE type = 'bike' NOT type = 'automobile'  
+- compacts  
+- sedans  
+- suvs  
+- coupes  
+- muscle  
+- sportsclassics  
+- sports  
+- super  
+- offroad  
+- industrial  
+- utility  
+- vans  
+- emergency  
+- military  
+- commercial  
+- motorcycles   -- IMPORTANT!!! MOTORCYCLES REQUIRE type = 'bike' NOT type = 'automobile'  
+  
 ## Dealership names  
-Heavy D Motorsports  
-Paleto Motorcycles  
-Premium Deluxe Motorsports  
-Turbo Wheels  
-Sandy Shores Trailers  
-truck  
-
+- Heavy D Motorsports  
+- Paleto Motorcycles  
+- Premium Deluxe Motorsports  
+- Turbo Wheels  
+- Sandy Shores Trailers  
+- truck  
+  
 # Table of Contents
 [1-10](#1-10)  
 [11-20](#11-20)  

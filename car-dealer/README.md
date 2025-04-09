@@ -11,25 +11,23 @@ Highlight the whole vector3 or vector4, and replace with your own coordinates. M
 
 ### Categories
 Select from the categories to determine which vehicles the dealership can sell
-<pre>
-"planes"  
-"sportsclassics"  
-"sedans"  
-"compacts"  
-"motorcycles"  
-"super"  
-"offroad"  
-"helicopters"  
-"coupes"  
-"muscle"  
-"boats"  
-"vans"  
-"sports"  
-"suvs"  
-"commercial"  
-"industrial"  
-</pre>
-
+- "planes"  
+- "sportsclassics"  
+- "sedans"  
+- "compacts"  
+- "motorcycles"  
+- "super"  
+- "offroad"  
+- "helicopters"  
+- "coupes"  
+- "muscle"  
+- "boats"  
+- "vans"  
+- "sports"  
+- "suvs"  
+- "commercial"  
+- "industrial"  
+  
 ### Dealership Template
 Copy the template below, and replace appropriate fields  
 ```lua
