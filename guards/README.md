@@ -82,4 +82,5 @@ This example uses the lostmc as the gang. Needs testing, but I believe the guard
     }
 }
 ```
-[Back to Top](#ai-guards)
+- [Back to Top](#ai-guards)  
+- [Back to Main Page](../README.md#alcatraz-templates)  

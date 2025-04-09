@@ -92,4 +92,5 @@ Might use this for emergency services since the minJobGrade feature is nice and 
   }
 }
 ```
-[Back to Top](#garages)
+- [Back to Top](#garages)  
+- [Back to Main Page](../README.md#alcatraz-templates)  

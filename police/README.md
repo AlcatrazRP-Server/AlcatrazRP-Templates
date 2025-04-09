@@ -301,6 +301,7 @@ LSPD = {
 
 ### Evidence Setup
 - [Back to Top](#police--evidence)
+- [Back to Main Page](../README.md#alcatraz-templates)  
 Here is the configuration on how to set up an the evidence section of any police department  
 ```lua
 LSPD = {

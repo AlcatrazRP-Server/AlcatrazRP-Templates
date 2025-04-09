@@ -10,7 +10,7 @@ Sizes are what prop will be shown based on how many you drop.
 In the example below,  
 - if a player drops 1-4 coke brick in their inventory it will display the 'hei_prop_hei_drug_pack_01a' prop when dropped/thrown
 - at 5 or more dropped it will be shown as the 'hei_prop_hei_drug_pack_01b' prop
-<pre>
+```lua
 ['coke_brick'] = {
     canBeThrown = true,
     canBeDropped = true,
@@ -19,4 +19,4 @@ In the example below,
         [5] = 'hei_prop_hei_drug_pack_01b',
     }
 },
-</pre>
+```

@@ -102,4 +102,5 @@ lscustoms = {
   }
 }
 ```
-[Back to Top](#mechanic-shop-template)
+- [Back to Top](#mechanic-shop-template)
+- [Back to Main Page](../README.md#alcatraz-templates)  
