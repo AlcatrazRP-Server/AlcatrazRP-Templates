@@ -74,7 +74,7 @@
 [421-430](#421-430)  
 [431-442](#431-442)    
   
-Change the name, price, category and shop (and type if catagory = 'motorcycle', change type = 'bike')
+Change the name, price, category and shop (and type if catagory = 'motorcycle', change type = 'bike')  
 [Categories](#categories)  
 [Dealership Names](#dealership-names)  
 [Table of Contents](#table-of-contents)  
