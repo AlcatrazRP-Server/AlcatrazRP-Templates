@@ -1,7 +1,7 @@
 # Hospital Setup
 There are two templates here.
-- Official Hospital
-- "Granny" Hospital
+- [Official Hospital](#official-hospital-template)
+- [Granny Hospital](#granny-hospital-template)
 
 ### Official Hospital Template
 Mostly have to change vector3 coordinates. Will create a fully functioning hospital ready for staff and patients  
