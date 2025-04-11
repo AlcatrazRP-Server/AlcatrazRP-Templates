@@ -62,7 +62,7 @@ lscustoms = {
       name = "Servicing Supplies",
       coords = vector3(-345.54, -131.32, 39.01),    -- NEEDED: CHANGE ME!! This is where the mechanics will purchase their most used items
       size = 2.0,
-      usePed = false,
+      usePed = false,                              -- OPTIONAL: Change to true if you want to use an NPC instead of an area
       pedModel = "s_m_m_lathandy_01",
       marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
       items = {
@@ -79,7 +79,7 @@ lscustoms = {
       name = "Advanced Upgrades",
       coords = vector3(-343.79, -139.92, 39.01),    -- NEEDED: CHANGE ME!! This is where the mechanics will purchase their more unique items
       size = 2.0,
-      usePed = false,
+      usePed = false,                               -- OPTIONAL: Change to true if you want to use an NPC instead of an area
       pedModel = "s_m_m_lathandy_01",
       marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
       items = {
@@ -94,7 +94,7 @@ lscustoms = {
       name = "Parts Bin",
       coords = vector3(-339.24, -132.2, 39.01),     -- NEEDED: CHANGE ME!! This is where the mechanics will stash their supplies
       size = 2.0,
-      usePed = false,
+      usePed = false,                               -- OPTIONAL: Change to true if you want to use an NPC instead of an area
       pedModel = "s_m_m_lathandy_01",
       marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
       slots = 10,
