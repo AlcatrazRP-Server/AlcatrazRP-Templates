@@ -15,7 +15,7 @@ more leather
 
 - [Guns Page](./weapons/README.md#custom-guns)
 
-### Bench Categories
+## Bench Categories
 
 - Weapons
 - Health
@@ -23,13 +23,13 @@ more leather
 - Other
 - add more to the discord
 
-### Raw Materials
+## Raw Materials
 
-Cold, hard cash:
+### Cold, hard cash:
 
 - money
 
-Mined materials:
+### Mined materials:
 
 - gold
 - silver
@@ -40,7 +40,7 @@ Mined materials:
 - sulfur
 - coal_chunk
 
-Recycled materials:
+### Recycled materials:
 
 - plastic
 - cloth
@@ -49,7 +49,7 @@ Recycled materials:
 - aluminum
 - electronic parts
 
-Hunting materials:
+### Hunting materials:
 
 - animal_fat
 - bone_fragments
@@ -60,27 +60,27 @@ Hunting materials:
 - skin_coyote
 - skin_mtlion
 
-Blueprints: (need more)
+### Blueprints: (need more)
 
 - access_tool_blueprint
 - micro_smg_blueprint
 - pipebomb_blueprint
 - brassknuckle_blueprint
 
-Pages:
+### Pages:
 
 - blueprint_scrap
 - recipe_page
 
-Guns:
+### Guns:
 
 - [guns page](./weapons/README.md)
 
-### Craftable Items
+## Craftable Items
 
 - [Raw Materials](#raw-materials)
 
-These are all of the currently available items for crafting. Need to add more
+### These are all of the currently available items for crafting. Need to add more
 
 - rifle
 - bandage
@@ -128,7 +128,7 @@ These are all of the currently available items for crafting. Need to add more
 },
 ```
 
-### Public Bench
+## Public Bench
 
 - [Craftable Items](#craftable-items)
 
@@ -153,7 +153,7 @@ This bench will be open to all.
 },
 ```
 
-### Job Specific Bench
+## Job Specific Bench
 
 - [Craftable Items](#craftable-items)
 
