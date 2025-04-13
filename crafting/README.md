@@ -20,6 +20,7 @@ more leather
 - Weapons
 - Health
 - Ammo
+- Materials
 - Other
 - add more to the discord
 
@@ -47,7 +48,7 @@ more leather
 - rubber
 - glass
 - aluminum
-- electronic parts
+- electronic_parts
 
 ### Hunting materials:
 
@@ -71,6 +72,11 @@ more leather
 
 - blueprint_scrap
 - recipe_page
+
+### Crafted Materials:
+
+- gunpowder
+- leather
 
 ### Guns:
 
