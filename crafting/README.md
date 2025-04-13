@@ -90,6 +90,8 @@ more leather
 
 - rifle
 - bandage
+- leather
+- gunpowder
 
 ```lua
 ['rifle'] = {
