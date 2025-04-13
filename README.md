@@ -102,5 +102,4 @@ corresponding discord channel, and I will add to the server. Simple as that!
 ### Templates to add:
 
 - Dispatch radio codes
-- Crafting
 - Outfits (work)
