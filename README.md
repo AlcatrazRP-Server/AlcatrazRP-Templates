@@ -6,15 +6,16 @@ post them in the discord or DM me directly. - Lester Morgan
 
 ### Browse through the links to find the template you are looking for
 
-- [Mechanic shops](./mechanic/README.md#mechanic-shop-template)
+- [Boss Menu](./boss-menu/README.md#boss-menu)
 - [Car Dealerships](./car-dealer/README.md#car-dealership-template)
 - [Cars](./car-dealer/cars/README.md#custom-cars)
+- [Crafting](./crafting/README.md#crafting)
 - [Garages](./garages/README.md#garages)
-- [Police Stations](./police/README.md#police--evidence)
+- [Guards](./guards/README.md#ai-guards)
 - [Hospitals](./hospitals/README.md#hospital-setup)
-- [AI Guards](./guards/README.md#ai-guards)
-- [Boss Menu](./boss-menu/README.md#boss-menu)
+- [Mechanic shops](./mechanic/README.md#mechanic-shop-template)
 - [Placeable/Throwable Items](./place-throw-items/README.md#placeable-and-throwable-items)
+- [Police Stations](./police/README.md#police--evidence)
 
 ## Instructions
 
