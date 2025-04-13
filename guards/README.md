@@ -1,10 +1,13 @@
 # AI Guards
-- [Back to Main Page](../README.md#alcatraz-templates)  
+
+- [Back to Main Page](../README.md#alcatraz-templates)
 
 These are criminal guards, so they will only protect specific gangs.  
-This example uses the lostmc as the gang. Needs testing, but I believe the guards will attack people not part of the gang when they are in the zone.  
+This example uses the lostmc as the gang. Needs testing, but I believe the
+guards will attack people not part of the gang when they are in the zone.
 
-# Tweak the stationary and footPatrol guards as needed.  
+# Tweak the stationary and footPatrol guards as needed.
+
 ```lua
 ['lostmc'] = {                -- NEEDED: CHANGE ME! Change to gangs code. If unknown, just the name of the gang is fine
     name = "lostmc",          -- NEEDED: CHANGE ME! Same as above
@@ -17,7 +20,7 @@ This example uses the lostmc as the gang. Needs testing, but I believe the guard
         stationary = {
             {
                 position = vector4(-1541.33, 128.97, 56.78, 134.55),
-                model = "s_m_m_armoured_01", 
+                model = "s_m_m_armoured_01",
                 weapon = "weapon_carbinerifle",
                 weapon_hidden = true, -- if true the weapon wont be shown when spawned
                 ammo = 100,
@@ -84,5 +87,5 @@ This example uses the lostmc as the gang. Needs testing, but I believe the guard
 }
 ```
 
-- [Back to Top](#ai-guards)  
-- [Back to Main Page](../README.md#alcatraz-templates)  
+- [Back to Top](#ai-guards)
+- [Back to Main Page](../README.md#alcatraz-templates)

@@ -1,14 +1,19 @@
 # Police & Evidence
-- [Back to Main Page](../README.md#alcatraz-templates)  
+
+- [Back to Main Page](../README.md#alcatraz-templates)
 
 Police and Evidence are set up separately  
-They both use the same job at the moment. There is always room for an evidence department  
-- [Police Station Setup](#police-station-setup)  
+They both use the same job at the moment. There is always room for an evidence
+department
+
+- [Police Station Setup](#police-station-setup)
 - [Evidence Setup](#evidence-setup)
 
 ### Police Station Setup
+
 Here is the configuration on how to set up an entire police department.  
-Just past this will be the Evidence configuration.  
+Just past this will be the Evidence configuration.
+
 ```lua
 LSPD = {
     blip = {
@@ -21,11 +26,11 @@ LSPD = {
     },
 
     clockInAndOut = {
-        enabled = true,                        
+        enabled = true,
         jobLock = 'police',                    -- OPTIONAL: change to different job. Police will be the only one until room for new depts.
-        coords = vec3(464.87, -977.37, 30.69), 
-        label = '[E] - Go On/Off Duty',        
-        distance = 3.0,                        
+        coords = vec3(464.87, -977.37, 30.69),
+        label = '[E] - Go On/Off Duty',
+        distance = 3.0,
         target = {
             enabled = false,
         }
@@ -191,12 +196,12 @@ LSPD = {
             },
         }
     },
-    
+
     personalLocker = {
         enabled = true,
         jobLock = 'police',                    -- OPTIONAL: change to different job. Police will be the only one until room for new depts.
         coords = vec3(462.64, -995.88, 30.69), -- NEEDED: CHANGE ME! Location of personal locker
-        range = 2.0, 
+        range = 2.0,
         label = '[E] - Access Personal Locker',
         target = {
             enabled = false,
@@ -208,7 +213,7 @@ LSPD = {
         jobLock = 'police',                        -- OPTIONAL: change to different job. Police will be the only one until room for new depts.
         zone = {
             coords = vector3(456.78, -987.68, 25.7),   -- NEEDED: CHANGE ME! Where employees will go to spawn their police car
-            range = 5.5, 
+            range = 5.5,
             label = '[E] - Access Garage',
             return_label = '[E] - Return Vehicle'
         },
@@ -296,14 +301,17 @@ LSPD = {
         -- replace example below with your own boss menu coordinates
         vector3(461.54, -986.17, 30.66)     -- NEEDED: CHANGE ME! Replace me with boss menu coords
     }
-    
+
 },
 ```
 
 ### Evidence Setup
+
 - [Back to Top](#police--evidence)
 - [Back to Main Page](../README.md#alcatraz-templates)  
-Here is the configuration on how to set up an the evidence section of any police department  
+  Here is the configuration on how to set up an the evidence section of any
+  police department
+
 ```lua
 LSPD = {
     label = 'LSPD',                                         -- NEEDED: CHANGE ME! Display label

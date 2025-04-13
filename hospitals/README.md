@@ -1,12 +1,16 @@
 # Hospital Setup
-- [Back to Main Page](../README.md#alcatraz-templates)  
 
-There are two templates here.  
+- [Back to Main Page](../README.md#alcatraz-templates)
+
+There are two templates here.
+
 - [Official Hospital](#official-hospital-template)
 - [Granny Hospital](#granny-hospital-template)
 
 ### Official Hospital Template
-Mostly have to change vector3 coordinates. Will create a fully functioning hospital ready for staff and patients  
+
+Mostly have to change vector3 coordinates. Will create a fully functioning
+hospital ready for staff and patients  
 Only NEED one setup in Paleto at the moment
 
 ```lua
@@ -79,7 +83,7 @@ Pillbox = {
         Label = '[E] - Change Clothes',
         HotKey = 38,
         Range = 1.5,
-        Uniforms = { 
+        Uniforms = {
             [1] = {                         -- Order it will display
                 label = 'Medic',            -- Name of outfit that will display in menu
                 minGrade = 0,               -- Min grade level that can access? Set to 0 or false for everyone to use
@@ -254,12 +258,14 @@ Pillbox = {
 ```
 
 ### Granny Hospital Template
+
 - [Back to Top](#hospital-setup)
-- [Back to Main Page](../README.md#alcatraz-templates)  
+- [Back to Main Page](../README.md#alcatraz-templates)
 - [Back to Instructions](../README.md#instructions)
 
 This is the criminal/private hospital template.  
-These hospitals will not display on the map.  
+These hospitals will not display on the map.
+
 ```lua
 GrannySmith = {
     Ped = 's_m_m_scientist_01',                   -- OPTIONAL: Check in ped

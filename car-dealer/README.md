@@ -1,35 +1,42 @@
 # Car Dealership template
-- [Back to Main Page](../README.md#alcatraz-templates)  
+
+- [Back to Main Page](../README.md#alcatraz-templates)
 - [Car Categories](#categories)
 - [Dealership Template](#dealership-template)
 - [Giant List of Cars](./cars/README.md#custom-cars)
 
 ## Data needed:
+
 Go through and look for the lines that say: -- NEEDED: CHANGE ME!!  
 Just get the vector3 coordinates, and paste them in to the appropriate spots.  
-Highlight the whole vector3 or vector4, and replace with your own coordinates. Must match original type (vector3 or vector4)  
+Highlight the whole vector3 or vector4, and replace with your own coordinates.
+Must match original type (vector3 or vector4)
 
 ### Categories
+
 Select from the categories to determine which vehicles the dealership can sell
-- "planes"  
-- "sportsclassics"  
-- "sedans"  
-- "compacts"  
-- "motorcycles"  
-- "super"  
-- "offroad"  
-- "helicopters"  
-- "coupes"  
-- "muscle"  
-- "boats"  
-- "vans"  
-- "sports"  
-- "suvs"  
-- "commercial"  
-- "industrial"  
-  
+
+- "planes"
+- "sportsclassics"
+- "sedans"
+- "compacts"
+- "motorcycles"
+- "super"
+- "offroad"
+- "helicopters"
+- "coupes"
+- "muscle"
+- "boats"
+- "vans"
+- "sports"
+- "suvs"
+- "commercial"
+- "industrial"
+
 ### Dealership Template
-Copy the template below, and replace appropriate fields  
+
+Copy the template below, and replace appropriate fields
+
 ```lua
 ["pdm"] = {
   type = "owned",

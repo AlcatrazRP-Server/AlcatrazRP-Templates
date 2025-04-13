@@ -1,13 +1,17 @@
 # Garages
-- [Back to Main Page](../README.md#alcatraz-templates)  
-  
-Below you will find different categories for each type of garage:  
+
+- [Back to Main Page](../README.md#alcatraz-templates)
+
+Below you will find different categories for each type of garage:
+
 - [Public](#public-garages)
 - [Employee Only](#employee-only)
-- [Business Spawner](#business-spawner)  
-  
+- [Business Spawner](#business-spawner)
+
 ### Public Garages
+
 Public garages for everybody to use.
+
 ```lua
 ["Legion Square"] = {                             -- NEEDED: CHANGE ME! Name that will show up on the map
   coords = vector3(215.09, -805.17, 30.81),       -- NEEDED: CHANGE ME! This is where users will activate the garage menu
@@ -29,7 +33,9 @@ Public garages for everybody to use.
 ```
 
 ### Employee Only
-These are player owned vehicles  
+
+These are player owned vehicles
+
 ```lua
 ["Mechanic"] = {                                      -- NEEDED: CHANGE ME! Just name business i.e. Burgershot, LSCustoms, etc.
   coords = vector3(157.86, -3005.9, 7.03),
@@ -50,9 +56,14 @@ These are player owned vehicles
 ```
 
 ### Business Spawner
-This type of garage spawn vehicles. Mainly for emergency services such as police and EMS  
-Police and EMS have built in garages, so this would only be necessary for towing or other jobs such as taxi, bus driver etc.  
-Might use this for emergency services since the minJobGrade feature is nice and uses less code  
+
+This type of garage spawn vehicles. Mainly for emergency services such as police
+and EMS  
+Police and EMS have built in garages, so this would only be necessary for towing
+or other jobs such as taxi, bus driver etc.  
+Might use this for emergency services since the minJobGrade feature is nice and
+uses less code
+
 ```lua
 ["Towing"] = {                                        -- NEEDED: CHANGE ME! Just name the service i.e. Police, EMS, Towing, etc.
   coords = vector3(434.48, -1016.97, 28.83),          -- NEEDED: CHANGE ME! This is where users will activate the garage menu
@@ -69,7 +80,7 @@ Might use this for emergency services since the minJobGrade feature is nice and 
   hideMarkers = true,
   markers = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
   vehiclesType = "spawner", -- Spawn a basic vehicle from a list
-  showLiveriesExtrasMenu = true, -- Allow player to select a livery and extras before pulling vehicle out 
+  showLiveriesExtrasMenu = true, -- Allow player to select a livery and extras before pulling vehicle out
   vehicles = {
     [1] = {
       model = "police",         -- spawn code for vehicle
@@ -92,5 +103,6 @@ Might use this for emergency services since the minJobGrade feature is nice and 
   }
 }
 ```
-- [Back to Top](#garages)  
-- [Back to Main Page](../README.md#alcatraz-templates)  
+
+- [Back to Top](#garages)
+- [Back to Main Page](../README.md#alcatraz-templates)
