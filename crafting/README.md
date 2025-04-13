@@ -145,7 +145,7 @@ This bench will be open to all.
   tableName = 'Weapons',                          -- OPTIONAL - CHANGE ME: Title
   tableID = 'general2',
   crafts = {                                      -- NEEDED - CHANGE ME: What items are available for crafting and the recipe. Add more from the list of Craftable Items above
-    'firstaid',
+    'bandage',
   },
   jobs = {
     ['all'] = true
@@ -172,7 +172,7 @@ specific job grades.
   tableID = 'general1',
   crafts = {                                    -- NEEDED - CHANGE ME: What items are available for crafting and the recipe. Add more from the list of craftable items
     'rifle',
-    'firstaid',
+    'bandage',
   },
   jobs = {                                      -- NEEDED - CHANGE ME: What jobs are able to open the workbench
     ['police'] = {
