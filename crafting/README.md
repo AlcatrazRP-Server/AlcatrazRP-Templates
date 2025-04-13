@@ -110,7 +110,7 @@ These are all of the currently available items for crafting. Need to add more
 ['bandage'] = {
   item = 'bandage',               -- NEEDED - CHANGE ME: Item id. Just write out the item name as you see it, and I can find the proper name. Adding list of items soon.
   amount = 1,                     -- NEEDED - CHANGE ME: Amount of the item the player will receive
-  maxCraft = 10,                  -- NEEDED - CHANGE ME: Amount of the item the player will receive
+  maxCraft = 10,                  -- NEEDED - CHANGE ME: Max amount of crafts at a time
   successCraftPercentage = 75,    -- NEEDED - CHANGE ME: Percentage of successful craft 0 = 0% | 50 = 50% | 100 = 100%
   isItem = true,
   isDisassemble = false,          -- OPTIONAL - CHANGE ME: true = disassemble | false = craft
