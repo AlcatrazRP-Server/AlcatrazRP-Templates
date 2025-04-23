@@ -88,16 +88,16 @@ change type = 'bike')
 ### 1-10
 
 ```lua
-{ model = '2f2fgtr34',                       name = '2f2fgtr34',                        brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '2ncsbmwm8',                       name = '2ncsbmwm8',                        brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '2ncsx7',                          name = '2ncsx7',                           brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '2nddragg',                        name = '2nddragg',                         brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '6x6',                             name = '6x6',                              brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '16charger',                       name = '16charger',                        brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '16topcargle',                     name = '16topcargle',                      brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '17m760i',                         name = '17m760i',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '17mansorypnmr',                   name = '17mansorypnmr',                    brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '17silvk9rb',                      name = '17silvk9rb',                       brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
+{ model = '2f2fgtr34',             name = 'Skyline',                        brand = 'Custom',             price = 115000,         category = 'sports',     type = 'automobile',      shop = 'turbowheels' },
+{ model = '2ncsbmwm8',             name = 'BMWM8Widebody',                  brand = 'Custom',             price = 150000,         category = 'coupes',     type = 'automobile',      shop = 'Turbowheels' },
+{ model = '2ncsx7',                name = 'BMWsuv',                         brand = 'Custom',             price = 150000,         category = 'suvs',     type = 'automobile',      shop = 'truck' },
+{ model = '2nddragg',              name = '2ndGenRamDrag',                  brand = 'Custom',             price = 180000,         category = 'muscle',     type = 'automobile',      shop = 'HeavyDMotorsports' },
+{ model = '6x6',                   name = 'Mercedes6x6',                    brand = 'Custom',             price = 150000,         category = 'truck',     type = 'automobile',      shop = 'truck' },
+{ model = '16charger',             name = '2016ChargerWideBody',            brand = 'Custom',             price = 75000,         category = 'muscle',     type = 'automobile',      shop = 'HeavyDMotorsports' },
+{ model = '16topcargle',           name = 'MercedesGLE',                    brand = 'Custom',             price = 115000,         category = 'suv',     type = 'automobile',      shop = 'truck' },
+{ model = '17m760i',               name = 'BMWM7widebody',                  brand = 'Custom',             price = 115000,         category = 'coupe',     type = 'automobile',      shop = 'turbowheels' },
+{ model = '17mansorypnmr',         name = 'Porschepanamera ',               brand = 'Custom',             price = 2000000,         category = 'sedan',     type = 'automobile',      shop = 'turbowheels' },
+{ model = '17silvk9rb',            name = '2017Chevy2500K9',                brand = 'Custom',             price = 2000000,         category = 'emergency',     type = 'automobile',      shop = 'none' },
 ```
 
 [Categories](#categories)  
@@ -107,17 +107,17 @@ change type = 'bike')
 ### 11-20
 
 ```lua
-{ model = '18performante',                   name = '18performante',                    brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '18rs7',                           name = '18rs7',                            brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '18Velar',                         name = '18Velar',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '19gv80',                          name = '19gv80',                           brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '20xb7',                           name = '20xb7',                            brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '21rsq8',                          name = '21rsq8',                           brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '21sierra',                        name = '21sierra',                         brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '22arturac',                       name = '22arturac',                        brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '22g63',                           name = '22g63',                            brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '22m5',                            name = '22m5',                             brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '74civrswb',                       name = '74civrswb',                        brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
+{ model = '18performante', name = 'LamborghiniHurican', brand = 'Custom', price = 250000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '18rs7', name = '2018rs7', brand = 'Custom', price = 250000, category = 'super', type = 'automobile', shop = 'turbowheels' },
+{ model = '18Velar', name = '2019LandRoverVelar', brand = 'Custom', price = 90000, category = 'suv', type = 'automobile', shop = 'truck' },
+{ model = '19gv80', name = '2021toyotaTunndra', brand = 'Custom', price = 60000, category = 'offroad', type = 'automobile', shop = 'truck' },
+{ model = '20xb7', name = 'BMWX7', brand = 'Custom', price = 90000, category = 'sedan', type = 'automobile', shop = 'turbowheels' },
+{ model = '21rsq8', name = '2021AudirsAWD', brand = 'Custom', price = 90000, category = 'super', type = 'automobile', shop = 'turbowheels' },
+{ model = '21sierra', name = '2021GMCSierra', brand = 'Custom', price = 110000, category = 'muscle', type = 'automobile', shop = 'HeavyDMotorsports' },
+{ model = '22arturac', name = '2022McLarenArtura', brand = 'Custom', price = 250000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '22g63', name = 'MercedesGWagonPolice', brand = 'Custom', price = 2000000, category = 'emergency', type = 'automobile', shop = 'none' },
+{ model = '22m5', name = '2022BMWM5', brand = 'Custom', price = 95000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '74civrswb', name = '1974HondaCivicRS', brand = 'Custom', price = 50000, category = 'sportsclassics', type = 'automobile', shop = 'PremiumDeluxeMotorsports' },
 ```
 
 [Categories](#categories)  
@@ -127,17 +127,17 @@ change type = 'bike')
 ### 21-30
 
 ```lua
-{ model = '77Monte',                         name = '77Monte',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '350z',                            name = '350z',                             brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '356a',                            name = '356a',                             brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '488',                             name = '488',                              brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '488animated',                     name = '488animated',                      brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '488sp',                           name = '488sp',                            brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '600ltwb',                         name = '600ltwb',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '675lt',                           name = '675lt',                            brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '812mnsry',                        name = '812mnsry',                         brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '911gtrs',                         name = '911gtrs',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '911turbos',                       name = '911turbos',                        brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
+{ model = '77Monte', name = '77MontecarloDONK', brand = 'Custom', price = 65000, category = 'muscle', type = 'automobile', shop = 'HeavyDMotorsports' },
+{ model = '350z', name = 'Nissan350z', brand = 'Custom', price = 80000, category = 'Sports', type = 'automobile', shop = 'Turbowheels' },
+{ model = '356a', name = '1950Porsche356', brand = 'Custom', price = 50000, category = 'sportsclassic', type = 'automobile', shop = 'HeavyDMotorsports' },
+{ model = '488', name = 'Ferrari488', brand = 'Custom', price = 150000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '488animated', name = 'Ferrari488animated', brand = 'Custom', price = 150000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '488sp', name = 'Ferrari488sp', brand = 'Custom', price = 2000000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '600ltwb', name = 'Ferrari488ltwb', brand = 'Custom', price = 160000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '675lt', name = 'McLaren675lt', brand = 'Custom', price = 160000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '812mnsry', name = 'Ferrari812', brand = 'Custom', price = 160000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '911gtrs', name = 'Porsche911gtrs', brand = 'Custom', price = 160000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '911turbos', name = 'Porsche911turbos', brand = 'Custom', price = 160000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
 ```
 
 [Categories](#categories)  
@@ -147,17 +147,17 @@ change type = 'bike')
 ### 31-40
 
 ```lua
-{ model = '1016rwdevo',                      name = '1016rwdevo',                       brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '1016urus',                        name = '1016urus',                         brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '1500ghoul',                       name = '1500ghoul',                        brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '2018s650p',                       name = '2018s650p',                        brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '2019chiron',                      name = '2019chiron',                       brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '2019m5',                          name = '2019m5',                           brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '2019tundrac',                     name = '2019tundrac',                      brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '2020CLA45s',                      name = '2020CLA45s',                       brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = '2022jeep',                        name = '2022jeep',                         brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'a45',                             name = 'a45',                              brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'a80',                             name = 'a80',                              brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
+{ model = '1016rwdevo', name = 'LamborghiniHuracan', brand = 'Custom', price = 250000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '1016urus', name = 'LamborghiniUrus', brand = 'Custom', price = 100000, category = 'suv', type = 'automobile', shop = 'truck' },
+{ model = '1500ghoul', name = 'Ram2500TRX', brand = 'Custom', price = 85000, category = 'offroad', type = 'automobile', shop = 'truck' },
+{ model = '2018s650p', name = '2018MercedesBenzLimo', brand = 'Custom', price = 100000, category = 'coupes', type = 'automobile', shop = 'PremiumDeluxMotorsports' },
+{ model = '2019chiron', name = '2019BugattiChiron', brand = 'Custom', price = 300000, category = 'super', type = 'automobile', shop = 'Turbowheels' },
+{ model = '2019m5', name = '2019BMWm5', brand = 'Custom', price = 90000, category = 'sports', type = 'automobile', shop = 'Turbowheels' },
+{ model = '2019tundrac', name = '2019ToyotaTundra', brand = 'Custom', price = 60000, category = 'offroad', type = 'automobile', shop = 'truck' },
+{ model = '2020CLA45s', name = '2020MercedseCLA45', brand = 'Custom', price = 80000, category = 'Sedan', type = 'automobile', shop = 'Turbowheels' },
+{ model = '2022jeep', name = '2022JeepWrangler', brand = 'Custom', price = 50000, category = 'offroad', type = 'automobile', shop = 'Truck' },
+{ model = 'a45', name = 'MercedesBenza45WideBody', brand = 'Custom', price = 85000, category = 'Sedans', type = 'automobile', shop = 'Tuurbowheels' },
+{ model = 'a80', name = 'ToyotaSupraRHD', brand = 'Custom', price = 70000, category = 'Sports', type = 'automobile', shop = 'Turbowheels' },
 ```
 
 [Categories](#categories)  
@@ -167,17 +167,17 @@ change type = 'bike')
 ### 41-50
 
 ```lua
-{ model = 'a90sh',                           name = 'a90sh',                            brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'AAQ4',                            name = 'AAQ4',                             brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'abhawk',                          name = 'abhawk',                           brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'aerox155',                        name = 'aerox155',                         brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'agerars',                         name = 'agerars',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'alpinab7',                        name = 'alpinab7',                         brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'alpinab7BLACKEDITION',            name = 'alpinab7BLACKEDITION',             brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'amarok',                          name = 'amarok',                           brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'amggt16',                         name = 'amggt16',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'amggtbs',                         name = 'amggtbs',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'AmgGtrLight',                     name = 'AmgGtrLight',                      brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
+{ model = 'a90sh', name = '2019ToyotaSupraA90', brand = 'Custom', price = 70000, category = 'sports', type = 'automobile', shop = 'Turbowheels' },
+{ model = 'AAQ4', name = 'AudiA4', brand = 'Custom', price = 70000, category = 'sedan', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'abhawk', name = 'JeepGrandCherokee', brand = 'Custom', price = 65000, category = 'suv', type = 'automobile', shop = 'truck' },
+{ model = 'aerox155', name = 'Moped', brand = 'Custom', price = 5000, category = 'motorcycles', type = 'bike', shop = 'PaletoMotorcycles' },
+{ model = 'agerars', name = 'KoenigseggAgrea', brand = 'Custom', price = 500000, category = 'super', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'alpinab7', name = 'BMWAlpinab7', brand = 'Custom', price = 80000, category = 'sedans', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'alpinab7BLACKEDITION', name = 'BMWalpinab7BLACKEDITION', brand = 'Custom', price = 80000, category = 'Sedans', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'amarok', name = 'VolkswagenAmarok', brand = 'Custom', price = 30000, category = 'offroad', type = 'automobile', shop = 'trucks' },
+{ model = 'amggt16', name = 'MercedesBenzAMGGT', brand = 'Custom', price = 70000, category = 'sedan', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'amggtbs', name = 'MercedesBenzAMGGT(BS)', brand = 'Custom', price = 75000, category = 'sedan', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'AmgGtrLight', name = 'MercedesBenzAMGGT(LUG)', brand = 'Custom', price = 75000, category = 'sedan', type = 'automobile', shop = 'TurboWheels' },
 ```
 
 [Categories](#categories)  
@@ -187,16 +187,16 @@ change type = 'bike')
 ### 51-60
 
 ```lua
-{ model = 'amgone',                          name = 'amgone',                           brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'amrevu23mg',                      name = 'amrevu23mg',                       brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'animfk8hr',                       name = 'animfk8hr',                        brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'audirs8',                         name = 'audirs8',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'autobio',                         name = 'autobio',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'b63s',                            name = 'b63s',                             brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'ben17',                           name = 'ben17',                            brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'bentaygam',                       name = 'bentaygam',                        brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'benzc32',                         name = 'benzc32',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'benzsl63',                        name = 'benzsl63',                         brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
+{ model = 'amgone', name = 'MercedesBenzAmgOne', brand = 'Custom', price = 800000, category = 'super', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'amrevu23mg', name = 'LamborghiniRevuelto', brand = 'Custom', price = 600000, category = 'super', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'animfk8hr', name = 'HondaCivicTypeR', brand = 'Custom', price = 35000, category = 'coupes', type = 'automobile', shop = 'PremiumDeluxMotorsports' },
+{ model = 'audirs8', name = 'Audis8', brand = 'Custom', price = 80000, category = 'sedan', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'autobio', name = 'RangeRover', brand = 'Custom', price = 65000, category = 'suv', type = 'automobile', shop = 'truck' },
+{ model = 'b63s', name = 'MercedesBenzGLS', brand = 'Custom', price = 85000, category = 'suv', type = 'automobile', shop = 'truck' },
+{ model = 'ben17', name = 'BentlyContinentalGT', brand = 'Custom', price = 120000, category = 'coupe', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'bentaygam', name = 'BentlyBentayga', brand = 'Custom', price = 200000, category = 'suv', type = 'automobile', shop = 'truck' },
+{ model = 'benzc32', name = 'MercedesBenzC32AMG', brand = 'Custom', price = 50000, category = 'sedanr', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'benzsl63', name = 'MercedesBenzSL65', brand = 'Custom', price = 65000, category = 'coupe', type = 'automobile', shop = 'TurboWheels' },
 ```
 
 [Categories](#categories)  
@@ -206,16 +206,16 @@ change type = 'bike')
 ### 61-70
 
 ```lua
-{ model = 'bigdaddy',                        name = 'bigdaddy',                         brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'bmw8mm',                          name = 'bmw8mm',                           brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'bmwe39',                          name = 'bmwe39',                           brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'bmwg07',                          name = 'bmwg07',                           brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'bmwvision',                       name = 'bmwvision',                        brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'BOSS429',                         name = 'BOSS429',                          brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'brz13varis',                      name = 'brz13varis',                       brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'c8',                              name = 'c8',                               brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'c8p1',                            name = 'c8p1',                             brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
-{ model = 'c63hr',                           name = 'c63hr',                            brand = 'Custom',             price = 2000000,         category = 'super',     type = 'automobile',      shop = 'none' },
+{ model = 'bigdaddy', name = 'TopFuelDragster', brand = 'Custom', price = 200000, category = 'muscle', type = 'automobile', shop = 'HeavyDMotorsports' },
+{ model = 'bmw8mm', name = 'BMW GranCoupe', brand = 'Custom', price = 60000, category = 'Sedan', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'bmwe39', name = 'BMWE39', brand = 'Custom', price = 70000, category = 'sedan', type = 'automobile', shop = 'PremiumDeluxMotorsports' },
+{ model = 'bmwg07', name = 'BMWAlpinaXB7', brand = 'Custom', price = 100000, category = 'suv', type = 'automobile', shop = 'truck' },
+{ model = 'bmwvision', name = 'BMWVision', brand = 'Custom', price = 200000, category = 'super', type = 'automobile', shop = 'TurboWheels' },
+{ model = 'BOSS429', name = 'MustangBOSS429', brand = 'Custom', price = 60000, category = 'Muscle', type = 'automobile', shop = 'HeavyDMotorsports' },
+{ model = 'brz13varis', name = 'SubaruBRZ', brand = 'Custom', price = 30000, category = 'coupes', type = 'automobile', shop = 'PremiumDeluxMotorsports' },
+{ model = 'c8', name = 'CorvetteC8', brand = 'Custom', price = 80000, category = 'Muscle', type = 'automobile', shop = 'HeavyDMotorsports' },
+{ model = 'c8p1', name = 'CorvetteC8(Spyder)', brand = 'Custom', price = 100000, category = 'Muscle', type = 'automobile', shop = 'HeavyDMotorsports' },
+{ model = 'c63hr', name = 'MercedesBenzAMGC63', brand = 'Custom', price = 75000, category = 'sedan', type = 'automobile', shop = 'TurboWheels' },
 ```
 
 [Categories](#categories)  
