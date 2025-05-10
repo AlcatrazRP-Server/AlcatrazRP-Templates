@@ -25,7 +25,7 @@
 
 ## Dealership Names
 
-- HeavyD Motorsports
+- Underground Performance
 - Paleto Motorcycles
 - Premium Deluxe Motorsports
 - Turbo Wheels
@@ -90,9 +90,9 @@ change type = 'bike')
 ['2f2fgtr34'] = { model = '2f2fgtr34', name = 'Skyline', brand = 'Custom', price = 115000, category = 'sports', type = 'automobile',    shop = 'Turbo Wheels',    hash = `2f2fgtr34` },
 ['2ncsbmwm8'] = { model = '2ncsbmwm8', name = 'BMWM8Widebody', brand = 'Custom', price = 150000, category = 'coupes', type = 'automobile',     shop = 'Turbo Wheels',     hash = `2ncsbmwm8` },
 ['2ncsx7'] = { model = '2ncsx7', name = 'BMWsuv', brand = 'Custom', price = 150000, category = 'suvs', type = 'automobile',     shop = 'truck',     hash = '2ncsx7' },
-['2nddragg'] = { model = '2nddragg', name = '2ndGenRamDrag', brand = 'Custom', price = 180000, category = 'muscle', type = 'automobile',     shop = 'HeavyD Motorsports',     hash = '2nddragg' },
+['2nddragg'] = { model = '2nddragg', name = '2ndGenRamDrag', brand = 'Custom', price = 180000, category = 'muscle', type = 'automobile',     shop = 'Underground Performance',     hash = '2nddragg' },
 ['6x6'] = { model = '6x6', name = 'Mercedes6x6', brand = 'Custom', price = 150000, category = 'truck', type = 'automobile',    shop = 'truck',      hash = '6x6' },
-['16charger'] = { model = '16charger', name = '2016ChargerWideBodbrand', brand = 'Custom', price = 75000, category = 'muscle', type = 'automobile',     shop = 'HeavyD Motorsports',     hash = '16charger' },
+['16charger'] = { model = '16charger', name = '2016ChargerWideBodbrand', brand = 'Custom', price = 75000, category = 'muscle', type = 'automobile',     shop = 'Underground Performance',     hash = '16charger' },
 ['16topcargle'] = { model = '16topcargle', name = 'MercedesGLE',     brand = 'Custom', price = 115000, category = 'suv', type = 'automobile',     shop = 'truck',     hash = '16topcargle' },
 ['17m760i'] = { model = '17m760i', name = 'BMWM7widebody',   brand = 'Custom', price = 115000, category = 'coupe', type = 'automobile',   shop = 'Turbo Wheels',     hash = '17m760i' },
 ['17mansorypnmr'] = { model = '17mansorypnmr', name = 'Porschepanamera ', brand = 'Custom', price = 2000000, category = 'sedan', type = 'automobile',     shop = 'Turbo Wheels',   hash = '17mansorypnmr' },
@@ -112,7 +112,7 @@ change type = 'bike')
 ['19gv80'] = { model = '19gv80', name = '2021toyotaTunndra', brand = 'Custom', price = 60000, category = 'offroad', type = 'automobile',  shop = 'truck', hash = '19gv80' },
 ['20xb7'] = { model = '20xb7', name = 'BMWX7', brand = 'Custom', price = 90000, category = 'sedan', type = 'automobile',  shop = 'Turbo Wheels', hash = '20xb7' },
 ['21rsq8'] = { model = '21rsq8', name = '2021AudirsAWD', brand = 'Custom', price = 90000, category = 'super', type = 'automobile',  shop = 'Turbo Wheels', hash = '21rsq8' },
-['21sierra'] = { model = '21sierra', name = '2021GMCSierra', brand = 'Custom', price = 110000, category = 'muscle', type = 'automobile',  shop = 'HeavyD Motorsports', hash = '21sierra' },
+['21sierra'] = { model = '21sierra', name = '2021GMCSierra', brand = 'Custom', price = 110000, category = 'muscle', type = 'automobile',  shop = 'Underground Performance', hash = '21sierra' },
 ['22arturac'] = { model = '22arturac', name = '2022McLarenArtura', brand = 'Custom', price = 250000, category = 'super', type = 'automobile',  shop = 'Turbo Wheels', hash = '22arturac' },
 ['22g63'] = { model = '22g63', name = 'MercedesGWagonPolice', brand = 'Custom', price = 2000000, category = 'emergency', type = 'automobile', shop = 'none', hash = '22g63' },
 ['22m5'] = { model = '22m5', name = '2022BMWM5', brand = 'Custom', price = 95000, category = 'super', type = 'automobile',  shop = 'Turbo Wheels', hash = '22m5' },
@@ -125,9 +125,9 @@ change type = 'bike')
 
 ```lua
 ['74civrswb'] = { model = '74civrswb', name = '1974HondaCivicRS', brand = 'Custom', price = 50000, category = 'sportsclassics', type = 'automobile',  shop = 'Premium Deluxe Motorsports', hash = '74civrswb' },
-['77Monte'] = { model = '77Monte', name = '77MontecarloDONK', brand = 'Custom', price = 65000, category = 'muscle', type = 'automobile',  shop = 'HeavyD Motorsports', hash = '77Monte' },
+['77Monte'] = { model = '77Monte', name = '77MontecarloDONK', brand = 'Custom', price = 65000, category = 'muscle', type = 'automobile',  shop = 'Underground Performance', hash = '77Monte' },
 ['350z'] = { model = '350z', name = 'Nissan350z', brand = 'Custom', price = 80000, category = 'Sports', type = 'automobile',  shop = 'Turbo Wheels', hash = '350z' },
-['356a'] = { model = '356a', name = '1950Porsche356', brand = 'Custom', price = 50000, category = 'sportsclassic', type = 'automobile',  shop = 'HeavyD Motorsports', hash = '356a' },
+['356a'] = { model = '356a', name = '1950Porsche356', brand = 'Custom', price = 50000, category = 'sportsclassic', type = 'automobile',  shop = 'Underground Performance', hash = '356a' },
 ['488'] = { model = '488', name = 'Ferrari488', brand = 'Custom', price = 150000, category = 'super', type = 'automobile',  shop = 'Turbo Wheels', hash = '488' },
 ['488animated'] = { model = '488animated', name = 'Ferrari488animated', brand = 'Custom', price = 150000, category = 'super', type = 'automobile',  shop = 'Turbo Wheels', hash = '488animated' },
 ['488sp'] = { model = '488sp', name = 'Ferrari488sp', brand = 'Custom', price = 2000000, category = 'super', type = 'automobile',  shop = 'Turbo Wheels', hash = '488sp' },
@@ -200,15 +200,15 @@ change type = 'bike')
 ['bentaygam'] = { model = 'bentaygam', name = 'BentlyBentayga', brand = 'Custom', price = 200000, category = 'suv', type = 'automobile',  shop = 'truck', hash = 'bentaygam' },
 ['benzc32'] = { model = 'benzc32', name = 'MercedesBenzC32AMG', brand = 'Custom', price = 50000, category = 'sedanr', type = 'automobile',  shop = 'Turbo Wheels', hash = 'benzc32' },
 ['benzsl63'] = { model = 'benzsl63', name = 'MercedesBenzSL65', brand = 'Custom', price = 65000, category = 'coupe', type = 'automobile',  shop = 'Turbo Wheels', hash = 'benzsl63' },
-['bigdaddy'] = { model = 'bigdaddy', name = 'TopFuelDragster', brand = 'Custom', price = 200000, category = 'muscle', type = 'automobile',  shop = 'HeavyD Motorsports', hash = 'bigdaddy' },
+['bigdaddy'] = { model = 'bigdaddy', name = 'TopFuelDragster', brand = 'Custom', price = 200000, category = 'muscle', type = 'automobile',  shop = 'Underground Performance', hash = 'bigdaddy' },
 ['bmw8mm'] = { model = 'bmw8mm', name = 'BMW GranCoupe', brand = 'Custom', price = 60000, category = 'Sedan', type = 'automobile',  shop = 'Turbo Wheels', hash = 'bmw8mm' },
 ['bmwe39'] = { model = 'bmwe39', name = 'BMWE39', brand = 'Custom', price = 70000, category = 'sedan', type = 'automobile',  shop = 'Premium Deluxe Motorsports', hash = 'bmwe39' },
 ['bmwg07'] = { model = 'bmwg07', name = 'BMWAlpinaXB7', brand = 'Custom', price = 100000, category = 'suv', type = 'automobile',  shop = 'truck', hash = 'bmwg07' },
 ['bmwvision'] = { model = 'bmwvision', name = 'BMWVision', brand = 'Custom', price = 200000, category = 'super', type = 'automobile',  shop = 'Turbo Wheels', hash = 'bmwvision' },
-['BOSS429'] = { model = 'BOSS429', name = 'MustangBOSS429', brand = 'Custom', price = 60000, category = 'Muscle', type = 'automobile',  shop = 'HeavyD Motorsports', hash = 'BOSS429' },
+['BOSS429'] = { model = 'BOSS429', name = 'MustangBOSS429', brand = 'Custom', price = 60000, category = 'Muscle', type = 'automobile',  shop = 'Underground Performance', hash = 'BOSS429' },
 ['brz13varis'] = { model = 'brz13varis', name = 'SubaruBRZ', brand = 'Custom', price = 30000, category = 'coupes', type = 'automobile',  shop = 'Premium Deluxe Motorsports', hash = 'brz13varis' },
-['c8'] = { model = 'c8', name = 'CorvetteC8', brand = 'Custom', price = 80000, category = 'Muscle', type = 'automobile',  shop = 'HeavyD Motorsports', hash = 'c8' },
-['c8p1'] = { model = 'c8p1', name = 'CorvetteC8(Spyder)', brand = 'Custom', price = 100000, category = 'Muscle', type = 'automobile',  shop = 'HeavyD Motorsports', hash = 'c8p1' },
+['c8'] = { model = 'c8', name = 'CorvetteC8', brand = 'Custom', price = 80000, category = 'Muscle', type = 'automobile',  shop = 'Underground Performance', hash = 'c8' },
+['c8p1'] = { model = 'c8p1', name = 'CorvetteC8(Spyder)', brand = 'Custom', price = 100000, category = 'Muscle', type = 'automobile',  shop = 'Underground Performance', hash = 'c8p1' },
 ['c63hr'] = { model = 'c63hr', name = 'MercedesBenzAMGC63', brand = 'Custom', price = 75000, category = 'sedan', type = 'automobile',  shop = 'Turbo Wheels', hash = 'c63hr' },
 ```
 

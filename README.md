@@ -13,6 +13,7 @@ post them in the discord or DM me directly. - Lester Morgan
 - [Garages](./garages/README.md#garages)
 - [Guards](./guards/README.md#ai-guards)
 - [Hospitals](./hospitals/README.md#hospital-setup)
+- [Items](./items/ITEMS.md)
 - [Mechanic shops](./mechanic/README.md#mechanic-shop-template)
 - [Placeable/Throwable Items](./place-throw-items/README.md#placeable-and-throwable-items)
 - [Police Stations](./police/README.md#police--evidence)
