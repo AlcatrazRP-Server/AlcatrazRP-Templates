@@ -1,10 +1,11 @@
 ## Ammunition:
 
-- [Back to Main](../../../README.md)
 - [Weapons Main](../weapons.md)
 - [Attachments](../attachments/attachments.md)
 - [Guns](../guns/guns.md)
-- [Items](../../ITEMS.md)
+
+- [Item Categories](../../ITEMS.md)
+- [Back to Main](../../../README.md)
 
 ### Loose ammo
 

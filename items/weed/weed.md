@@ -1,7 +1,8 @@
 ## Weed Items
 
-- [Back to Main](../../README.md)
 - [Item Categories](../ITEMS.md)
+
+- [Back to Main](../../README.md)
 
 ### Items
 

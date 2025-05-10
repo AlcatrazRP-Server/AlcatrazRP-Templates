@@ -1,10 +1,11 @@
 ## Weapon Attachments
 
-- [Back to Main](../../../README.md)
 - [Weapons Main](../weapons.md)
 - [Ammo](../ammo/ammo.md)
 - [Guns](../guns/guns.md)
-- [Items](../../ITEMS.md)
+
+- [Item Categories](../../ITEMS.md)
+- [Back to Main](../../../README.md)
 
 ### Add-on (Balenciaga Gun Pack)
 

@@ -1,8 +1,9 @@
 ## Drug Ingredients
 
-- [Back to Main](../../README.md)
 - [Drugs](../drugs/drugs.md)
-- [Items](../ITEMS.md)
+- [Item Categories](../ITEMS.md)
+
+- [Back to Main](../../README.md)
 
 ### Items
 

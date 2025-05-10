@@ -1,7 +1,8 @@
 ## Robbery Items
 
+- [Item Categories](../ITEMS.md)
+
 - [Back to Main](../../README.md)
-- [Items](../ITEMS.md)
 
 ### Items
 
