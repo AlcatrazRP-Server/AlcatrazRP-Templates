@@ -17,6 +17,7 @@ post them in the discord or DM me directly. - Lester Morgan
 - [Mechanic shops](./mechanic/README.md#mechanic-shop-template)
 - [Placeable/Throwable Items](./place-throw-items/README.md#placeable-and-throwable-items)
 - [Police Stations](./police/README.md#police--evidence)
+- [Penal System](./police/penal-code/codes.md#alcatraz-penal-system)
 
 ## Instructions
 

@@ -1,6 +1,7 @@
 # Police & Evidence
 
 - [Back to Main Page](../README.md#alcatraz-templates)
+- [Penal Codes](./penal-code/codes.md#alcatraz-penal-system)
 
 Police and Evidence are set up separately  
 They both use the same job at the moment. There is always room for an evidence
