@@ -18,6 +18,7 @@ post them in the discord or DM me directly. - Lester Morgan
 - [Placeable/Throwable Items](./place-throw-items/README.md#placeable-and-throwable-items)
 - [Police Stations](./police/README.md#police--evidence)
 - [Penal System](./police/penal-code/codes.md#alcatraz-penal-system)
+- [Restaurant Recipes](./restaurants/restaurants.md/#item-categories)
 
 ## Instructions
 
